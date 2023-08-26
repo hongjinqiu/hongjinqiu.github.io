@@ -1,3 +1,7 @@
+layout: page
+title: "Nanhu-print-java Introduction"
+permalink: /nanhu-print-java/document/introduction
+
 # 1. What is Nanhu-print-java
 
 Nanhu-print-java is a pdf generation framework implemented by java language. 

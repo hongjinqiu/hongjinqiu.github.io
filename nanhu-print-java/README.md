@@ -1,3 +1,7 @@
+layout: page
+title: "What is nanhu-print-java"
+permalink: /nanhu-print-java
+
 # What is nanhu-print-java
 
 nanhu-print-java is a pdf generation framework implemented in java language. 
@@ -17,15 +21,17 @@ nanhu-print-java can help users complete these functions that are common in ente
 Cooperating with the nanhu-print-js framework on the web front end, the pdf printing format can be customized.
 
 It is the first time to contact nanhu-print-java, please continue to read this chapter to understand the rich functions and core concepts provided by nanhu-print-java;<br>
-If you want to quickly experience nanhu-print-java, please refer to [Quick Start](document/quick_start.md) 
+If you want to quickly experience nanhu-print-java, please refer to [Quick Start](document/quick_start)
+
+git url of nanhu-print-java: `https://github.com/hongjinqiu/nanhu-print-java.git`
 
 #### nanhu-print-java design concept and core functions
 
-- [Introduction](document/introduction.md)
-- [Architecture](document/architecture.md)
-- [Extensibility](document/extensibility.md)
-- [Quick Start](document/quick_start.md)
-- [Faq](document/faq.md)
+- [Introduction](document/introduction)
+- [Architecture](document/architecture)
+- [Extensibility](document/extensibility)
+- [Quick Start](document/quick_start)
+- [Faq](document/faq)
 
 maven configuration
 
@@ -37,7 +43,7 @@ maven configuration
 </dependency>
 ```
 
-Next, refer to [Quick Start](document/quick_start.md) to implement your first nanhu-print-java program
+Next, refer to [Quick Start](document/quick_start) to implement your first nanhu-print-java program
 
 Demo project docker address:
 ```

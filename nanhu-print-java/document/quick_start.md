@@ -1,3 +1,7 @@
+layout: page
+title: "Nanhu-print-java Quick Start"
+permalink: /nanhu-print-java/document/quick_start
+
 # Quick Start
 
 Using the nanhu-print-java framework to generate PDF Getting Started Guide

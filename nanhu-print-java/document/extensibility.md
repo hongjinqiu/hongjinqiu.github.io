@@ -1,3 +1,7 @@
+layout: page
+title: "Nanhu-print-java Extensibility"
+permalink: /nanhu-print-java/document/extensibility
+
 # Extensibility
 
 Nanhu-print-java provides two interfaces, which are used to implement functions that are difficult to implement on page configuration and can only be completed by code.
