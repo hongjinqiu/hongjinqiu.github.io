@@ -1,6 +1,8 @@
+---
 layout: page
 title: "What is nanhu-print-java"
 permalink: /nanhu-print-java
+---
 
 # What is nanhu-print-java
 

@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Nanhu-print-java Extensibility"
 permalink: /nanhu-print-java/document/extensibility
+---
 
 # Extensibility
 

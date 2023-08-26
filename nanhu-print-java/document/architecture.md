@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Nanhu-print-java Architecture"
 permalink: /nanhu-print-java/document/architecture
+---
 
 # 1. Architecture
 By writing the configuration file in XML format constrained by nanhu-print-java/src/main/resources/xsd/nanhuprint.xsd and combining their own business data,

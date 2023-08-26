@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Nanhu-print-java Frequently asked questions"
 permalink: /nanhu-print-java/document/faq
+---
 
 # Frequently asked questions
 
