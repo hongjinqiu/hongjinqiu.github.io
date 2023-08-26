@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nanhu-print-java Frequently asked questions"
-permalink: /nanhu-print-java/document/faq
+permalink: /nanhu_print_java_doc/document/faq
 ---
 
 # Frequently asked questions

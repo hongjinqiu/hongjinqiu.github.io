@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nanhu-print-java Introduction"
-permalink: /nanhu-print-java/document/introduction
+permalink: /nanhu_print_java_doc/document/introduction
 ---
 
 # 1. What is Nanhu-print-java

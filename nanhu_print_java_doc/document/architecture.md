@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nanhu-print-java Architecture"
-permalink: /nanhu-print-java/document/architecture
+permalink: /nanhu_print_java_doc/document/architecture
 ---
 
 # 1. Architecture

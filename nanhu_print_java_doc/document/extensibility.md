@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nanhu-print-java Extensibility"
-permalink: /nanhu-print-java/document/extensibility
+permalink: /nanhu_print_java_doc/document/extensibility
 ---
 
 # Extensibility

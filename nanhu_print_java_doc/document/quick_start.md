@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nanhu-print-java Quick Start"
-permalink: /nanhu-print-java/document/quick_start
+permalink: /nanhu_print_java_doc/document/quick_start
 ---
 
 # Quick Start
