@@ -23,17 +23,17 @@ nanhu-print-java can help users complete these functions that are common in ente
 Cooperating with the nanhu-print-js framework on the web front end, the pdf printing format can be customized.
 
 It is the first time to contact nanhu-print-java, please continue to read this chapter to understand the rich functions and core concepts provided by nanhu-print-java;<br>
-If you want to quickly experience nanhu-print-java, please refer to [Quick Start](document/quick_start)
+If you want to quickly experience nanhu-print-java, please refer to [Quick Start](/nanhu_print_java_doc/document/quick_start)
 
 git url of nanhu-print-java: `https://github.com/hongjinqiu/nanhu-print-java.git`
 
 #### nanhu-print-java design concept and core functions
 
-- [Introduction](document/introduction)
-- [Architecture](document/architecture)
-- [Extensibility](document/extensibility)
-- [Quick Start](document/quick_start)
-- [Faq](document/faq)
+- [Introduction](/nanhu_print_java_doc/document/introduction)
+- [Architecture](/nanhu_print_java_doc/document/architecture)
+- [Extensibility](/nanhu_print_java_doc/document/extensibility)
+- [Quick Start](/nanhu_print_java_doc/document/quick_start)
+- [Faq](/nanhu_print_java_doc/document/faq)
 
 maven configuration
 
@@ -45,7 +45,7 @@ maven configuration
 </dependency>
 ```
 
-Next, refer to [Quick Start](document/quick_start) to implement your first nanhu-print-java program
+Next, refer to [Quick Start](/nanhu_print_java_doc/document/quick_start) to implement your first nanhu-print-java program
 
 Demo project docker address:
 ```
