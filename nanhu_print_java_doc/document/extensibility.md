@@ -50,3 +50,5 @@ An example configuration is:
     </div>
 </td>
 ```
+
+{% include head.html %}

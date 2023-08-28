@@ -253,3 +253,5 @@ The formatting of these fields can also be implemented through the configuration
 <span value="js:item.item_price" format="unitPrice"/>
 <span value="js:item.item_price" format="amt"/>
 ```
+
+{% include head.html %}

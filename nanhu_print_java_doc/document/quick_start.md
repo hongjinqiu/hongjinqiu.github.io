@@ -77,3 +77,5 @@ In hello_world.json configuration, we defined a variable `businessData="I am bus
 You can download the nanhu-print-java-demo project to see more code samples.
 
 git clone https://github.com/hongjinqiu/nanhu-print-java-demo.git
+
+{% include head.html %}
