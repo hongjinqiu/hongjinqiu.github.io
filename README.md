@@ -1,3 +1,5 @@
+{% include head.html %}
+
 # [A pdf framework that solves the pain points of enterprise development (implemented in java language)](nanhu_print_java_doc)
 
 nanhu-print-java is a pdf generation framework implemented in java language. 
@@ -8,5 +10,4 @@ Then call the nanhu-print-java framework API to complete the generation of a PDF
 
 [Continue reading the full text »](nanhu_print_java_doc)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6723215562687002"
-     crossorigin="anonymous"></script>
+
