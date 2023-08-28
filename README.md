@@ -7,3 +7,6 @@ Users can configure a file in xml format and prepare the json data format they w
 Then call the nanhu-print-java framework API to complete the generation of a PDF file. 
 
 [Continue reading the full text »](nanhu_print_java_doc)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6723215562687002"
+     crossorigin="anonymous"></script>
