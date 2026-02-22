@@ -19,6 +19,7 @@ nanhu-print-java can help users complete these functions that are common in ente
 - Print with template(use an image as background)
 - Watermark
 - Alternate printing of different backgrounds in the table rows
+- Border control when table is paginated
 
 Cooperating with the nanhu-print-js framework on the web front end, the pdf printing format can be customized.
 
@@ -41,7 +42,7 @@ maven configuration
 <dependency>
     <groupId>io.github.hongjinqiu</groupId>
     <artifactId>nanhu-print-java</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.6</version>
 </dependency>
 ```
 
@@ -49,8 +50,8 @@ Next, refer to [Quick Start](/nanhu_print_java_doc/document/quick_start) to impl
 
 Demo project docker address:
 ```
-docker pull hjq20021984/nanhu-print-java-demo:1.0.4
-docker run -d -p 8891:8891 --name my-nanhu-print-java-demo hjq20021984/nanhu-print-java-demo:1.0.4
+docker pull hjq20021984/nanhu-print-java-demo:1.0.6
+docker run -d -p 8891:8891 --name my-nanhu-print-java-demo hjq20021984/nanhu-print-java-demo:1.0.6
 ```
 
 When docker is running, visit `http://localhost:8891`
