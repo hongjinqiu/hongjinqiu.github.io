@@ -21,7 +21,7 @@ The company I work for wants to implement a custom printing function, which need
 
 The company prepared two technical solutions at beginning:
 
-1. The front and back ends are implemented separately. <br>The front end uses js to realize the page and controls the page fields, and the back end uses java to call the iText pdf library to generate pdf for printing.
+1. The front and back ends are implemented separately. <br>The front end uses js to realize the page and controls the page fields, and the back end uses java to call the OpenPDF pdf library to generate pdf for printing.
 2. The front-end implements almost all the functions. <br>After the front-end js implements the page, the generated html is sent to the back-end, and the back-end uses java to call the html-to-pdf framework to generate pdf for printing.
 
 Considering that, each field on the page has to do complex display and hide operations and the development of the interface display directly through java is very cumbersome, and after the development is completed, changes in requirements, addition of fields and subtraction of fields will all involve program modifications. The code would be bad maintenance, therefore, the first option was rejected.
